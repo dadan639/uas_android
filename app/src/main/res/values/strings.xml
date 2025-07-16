@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UAS</string>
+    <string name="app_logo_description">Logo Aplikasi</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_text">Login</string>
+
+    <!-- Dummy login credentials (Hanya untuk pengembangan, jangan di-hardcode di aplikasi rilis!) -->
+    <string name="dummy_username">kminchelle</string>
+    <string name="dummy_password">0lelplR</string>
+
+    <string name="failed_to_load_products_retry">Gagal memuat produk. Ketuk untuk mencoba lagi.</string>
+    <string name="no_products_found">Tidak ada produk ditemukan.</string>
+    <string name="failed_to_load_recipes_retry">Gagal memuat resep. Ketuk untuk mencoba lagi.</string>
+    <string name="no_recipes_found">Tidak ada resep ditemukan.</string>
+    <string name="content_description_recipes_list">Daftar Resep</string>
+    <string name="content_description_products_list">Daftar Produk</string> <!-- Tambahkan juga untuk produk jika ada warning serupa -->
+</resources>
